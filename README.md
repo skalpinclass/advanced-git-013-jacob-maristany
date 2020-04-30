@@ -11,3 +11,8 @@ This section is for some git related links.
 
 `git config --global core.editor "code --new-window --wait"`
 [https://www.mking.net/blog/using-vscode-as-the-default-git-editor](https://www.mking.net/blog/using-vscode-as-the-default-git-editor)
+## Git Grievances
+
+- Uses vim as the default editor
+- Is a cmd tool
+- Was written in linux for linux, doesn't play nice with Windows
